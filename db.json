@@ -10,13 +10,13 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Emperor Zurg",
+      "image": "https://m.media-amazon.com/images/I/71T49kRireL._AC_SL1500_.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Toy Soldiers",
+      "image": "https://static.wikia.nocookie.net/pixar/images/8/8d/D7CF06AE-86C4-489B-8232-6A1565E689AC.jpeg/revision/latest/scale-to-width-down/700?cb=20181207151858",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "RC Car",
+      "image": "https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1486072813/content-items/001/851/697/Toy_Story_HDRI-original.jpg?1486072813",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
